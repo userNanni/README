@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/userNanni/userNanni/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/userNanni/README/output/snake.svg" alt="Snake animation" />
 
 ###
